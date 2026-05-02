@@ -6,9 +6,8 @@ It is designed to present projects, skills, services, and contact details with a
 
 ## Preview
 
-> Add your screenshot here if you want:
->
-> `![Portfolio Preview](./public/og-image.png)`
+
+[Portfolio Preview](./public/og-image.png)`
 
 ## Features
 
