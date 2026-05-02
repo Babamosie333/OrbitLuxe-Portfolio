@@ -7,7 +7,7 @@ It is designed to present projects, skills, services, and contact details with a
 ## Preview
 
 
-![Portfolio Preview](./public/og-image.png)`
+![Portfolio Preview](./public/og-image.png)
 
 ## Features
 
@@ -50,7 +50,7 @@ It is designed to present projects, skills, services, and contact details with a
 
 ```bash
 git clone https://github.com/Babamosie333/OrbitLuxe-Portfolio.git
-cd halo-orbit-portfolio
+cd orbit-luxe-portfolio
 ```
 
 ### 2. Install dependencies
