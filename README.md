@@ -7,7 +7,7 @@ It is designed to present projects, skills, services, and contact details with a
 ## Preview
 
 
-[Portfolio Preview](./public/og-image.png)`
+![Portfolio Preview](./public/og-image.png)`
 
 ## Features
 
